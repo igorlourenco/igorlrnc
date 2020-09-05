@@ -5,17 +5,17 @@
 
 
 ###### Alguns dos meus reposítórios   
-[![Blog Básico Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=blog-basico-next-js&show_owner=tru&theme=vision-friendly-dark)](https://github.com/igorlrnc/blog-basico-next-js)  [![Chakra UI com Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=chakra-ui-next-js&theme=vision-friendly-dark)](https://github.com/igorlrnc/chakra-ui-next-js)
+[![Blog Básico Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=blog-basico-next-js)](https://github.com/igorlrnc/blog-basico-next-js)  [![Chakra UI com Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=chakra-ui-next-js)](https://github.com/igorlrnc/chakra-ui-next-js)
 
-[![Chakra UI com Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=coeficiente-pearson&theme=vision-friendly-dark)](https://github.com/igorlrnc/coeficiente-pearson)
+[![Chakra UI com Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=coeficiente-pearson)](https://github.com/igorlrnc/coeficiente-pearson)
 
 
 ###### Repositórios onde sou colaborador
-[![Teste de Tukey](https://github-readme-stats.vercel.app/api/pin/?username=tillduo&repo=teste_tukey&theme=vision-friendly-dark)](https://github.com/tillduo/teste_tukey)      
+[![Teste de Tukey](https://github-readme-stats.vercel.app/api/pin/?username=tillduo&repo=teste_tukey)](https://github.com/tillduo/teste_tukey)      
 
 
 ###### Meus Stats
-[![Minha atividade no Github](https://github-readme-stats.vercel.app/api?username=igorlrnc&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/igorlrnc/github-readme-stats)    
+[![Minha atividade no Github](https://github-readme-stats.vercel.app/api?username=igorlrnc&show_icons=true&include_all_commits=true)](https://github.com/igorlrnc/github-readme-stats)    
 
 
 ---
