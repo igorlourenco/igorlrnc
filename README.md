@@ -5,9 +5,9 @@
 
 
 ###### Alguns dos meus reposítórios   
-[![O que ver na Netflix?](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=o-que-ver-na-netflix)](https://github.com/igorlrnc/o-que-ver-na-netflix) [![Chakra UI com Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=chakra-ui-next-js)](https://github.com/igorlrnc/chakra-ui-next-js)
+[![Gêneros Escutados no Spotify](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=spotify-genres-stats)](https://github.com/igorlrnc/spotify-genres-stats) [![Chakra UI com Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=chakra-ui-next-js)](https://github.com/igorlrnc/chakra-ui-next-js)
 
-[![Blog Básico Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=blog-basico-next-js)](https://github.com/igorlrnc/blog-basico-next-js) [![Chakra UI com Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=coeficiente-pearson)](https://github.com/igorlrnc/coeficiente-pearson)
+[![Blog Básico Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=blog-basico-next-js)](https://github.com/igorlrnc/blog-basico-next-js) [![Coeficiente de Pearson](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=coeficiente-pearson)](https://github.com/igorlrnc/coeficiente-pearson)
 
 
 ###### Repositórios onde sou colaborador
