@@ -1,11 +1,11 @@
 ### Alô 👨🏾‍🚀
 
-**Sou desenvolvedor web, graduando em Sistemas de Informação pela Universidade Estadual do Tocantins e estudante de tecnologias JavaScript e PHP.**   
+**Sou desenvolvedor web, graduando em Sistemas de Informação pela Universidade Estadual do Tocantins e estudante de tecnologias JavaScript.**   
 **Atualmente, estou estudando Next.js (ReactJS) e logo abaixo tem uns projetos que vou desenvolvendo enquanto aprendo. 🤘🏾**   
 
 
 ###### Alguns dos meus reposítórios   
-[![Gêneros Escutados no Spotify](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=spotify-genres-stats)](https://github.com/igorlrnc/spotify-genres-stats) [![Chakra UI com Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=chakra-ui-next-js)](https://github.com/igorlrnc/chakra-ui-next-js)
+[![Chakra UI com Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=chakra-ui-next-js)](https://github.com/igorlrnc/chakra-ui-next-js)
 
 [![Blog Básico Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=blog-basico-next-js)](https://github.com/igorlrnc/blog-basico-next-js) [![Coeficiente de Pearson](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=coeficiente-pearson)](https://github.com/igorlrnc/coeficiente-pearson)
 
