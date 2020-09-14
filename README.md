@@ -1,7 +1,7 @@
 ### Alô 👨🏾‍🚀
 
 **Sou desenvolvedor web, graduando em Sistemas de Informação pela Universidade Estadual do Tocantins e estudante de tecnologias JavaScript.**   
-**Atualmente, estou estudando Next.js (ReactJS) e logo abaixo tem uns projetos que vou desenvolvendo enquanto aprendo.**   
+**Atualmente, estou estudando ReactJS (com Next.js) e desenvolvendo uns projetos enquanto aprendo.**   
 
 
 ###### Alguns dos meus reposítórios   
