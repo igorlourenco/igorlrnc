@@ -5,7 +5,7 @@
 
 
 ###### Alguns dos meus reposítórios   
-[![Chakra UI com Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=chakra-ui-next-js)](https://github.com/igorlrnc/chakra-ui-next-js) [![Starter Template Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=starter-template-next-js)](https://github.com/igorlrnc/starter-template-next-js)
+[![Países](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=paises-next-js)](https://github.com/igorlrnc/paises-next-js) [![Starter Template Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=starter-template-next-js)](https://github.com/igorlrnc/starter-template-next-js)
 
 [![Blog Básico Next.js](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=blog-basico-next-js)](https://github.com/igorlrnc/blog-basico-next-js) [![Coeficiente de Pearson](https://github-readme-stats.vercel.app/api/pin/?username=igorlrnc&repo=coeficiente-pearson)](https://github.com/igorlrnc/coeficiente-pearson)
 
